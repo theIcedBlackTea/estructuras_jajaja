@@ -13,3 +13,5 @@ ahora haré un segundo commit en el Ramal-1 para hacer más larga la estructura 
 ##### 5.
 Si la alargó. 
 Commit y pull request.
+###### 6.
+Ahora commit en main después del pull request y volver a aplicar la misma .

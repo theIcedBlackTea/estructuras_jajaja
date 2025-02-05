@@ -1,9 +1,6 @@
 # estructuras_jajaja
 omagaaa
 
-# pr-ctica_de_estructuras_github
-Para aclarar ideas a la hora de hacer pusheos y mergeos .
-
 ## 1.
 Se supone que primero debo hacer un commit inicial en main, so hagámoslo .
 ## 2.

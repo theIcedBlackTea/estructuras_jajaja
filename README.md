@@ -19,3 +19,12 @@ Ahora commit en main después del pull request y volver a aplicar la misma .
 Creo que lo tengo
 ###
 una bailadita
+
+#### ORDEN DEFINITIVO ###
+1. COMMIT EN MAIN
+2. RAMA NUEVA, CAMBIOS, 'ADD .', 'COMMIT' Y 'PUSH'
+3. PULL REQUEST
+4. CAMBIO A MAIN
+5. 'GIT PULL'
+6. RAMA NUEVA, CAMBIOS, 'ADD .', 'COMMIT' Y 'PUSH' . . .
+#### LOOP ###
